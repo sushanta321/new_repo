@@ -1,0 +1,3 @@
+name: sushanta,
+password : test123
+confirm password :test123
